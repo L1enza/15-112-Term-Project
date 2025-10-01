@@ -1,0 +1,38 @@
+Below the dashed line, for each group member, clearly specify which sections of 
+the code are predominantly your own original contributions, as described in
+the TP document: 
+https://www.cs.cmu.edu/~112/notes/term-project-and-hack112.html#personal-contributions
+
+Example: 
+
+koz
+ - Wrote the Enemy class in game_logic.py
+ - ...
+mdtaylor
+ - Designed and coded the main game screen
+ - ...
+------------------------------------>
+
+zllenza
+- Wrote the ray and raycaster classes in ray.py and raycaster.py
+- Wrote the player class in player.py
+- Established basic game settings in settings.py
+- Wrote the gradient background in main.py
+- Wrote the key and mouse commands in main.py
+- Wrote the resetGame function in main.py
+- Wrote the enemy.py file
+- Designed the main game screen and buttons
+- Implemented audios in main.py
+
+
+
+alexjack
+- Wrote the collectible class in collectible.py
+- Wrote the map class in map.py
+- Wrote the createEscapeDoor function in main.py
+- Wrote the checkDoorCollision function in main.py
+- Wrote the redrawAll function in main.py
+- Wrote the onStep function in main.py
+- Wrote the audioManager.py file
+- Wrote the collectible.py File
+- Designed the how to play screen and settings screen
